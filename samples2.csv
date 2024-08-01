@@ -1,0 +1,501 @@
+Opinion(t),Dissenter,Leader,NSI_Coeff,Avg_Opinion,Opinion(t+1)
+Strongly Disagree,True,True,Non-conforming,Strongly Disagree,Strongly Disagree
+Strongly Disagree,True,True,Non-conforming,Disagree,Strongly Disagree
+Strongly Disagree,True,True,Non-conforming,Neutral,Strongly Disagree
+Strongly Disagree,True,True,Non-conforming,Agree,Strongly Disagree
+Strongly Disagree,True,True,Non-conforming,Strongly Agree,Strongly Disagree
+Strongly Disagree,True,True,Non-conforming,Strongly Disagree,Strongly Disagree
+Strongly Disagree,True,True,Slightly non-conforming,Disagree,Strongly Disagree
+Strongly Disagree,True,True,Slightly non-conforming,Neutral,Strongly Disagree
+Strongly Disagree,True,True,Slightly non-conforming,Agree,Strongly Disagree
+Strongly Disagree,True,True,Slightly non-conforming,Strongly Agree,Strongly Disagree
+Strongly Disagree,True,True,Slightly non-conforming,Strongly Disagree,Strongly Disagree
+Strongly Disagree,True,True,Slightly non-conforming,Disagree,Strongly Disagree
+Strongly Disagree,True,True,Slightly non-conforming,Neutral,Strongly Disagree
+Strongly Disagree,True,True,Slightly non-conforming,Agree,Strongly Disagree
+Strongly Disagree,True,True,Slightly non-conforming,Strongly Agree,Strongly Disagree
+Strongly Disagree,True,True,Slightly non-conforming,Strongly Disagree,Strongly Disagree
+Strongly Disagree,True,True,Slightly non-conforming,Disagree,Strongly Disagree
+Strongly Disagree,True,True,Slightly non-conforming,Neutral,Strongly Disagree
+Strongly Disagree,True,True,Slightly Conforming,Agree,Strongly Disagree
+Strongly Disagree,True,True,Slightly Conforming,Strongly Agree,Strongly Disagree
+Strongly Disagree,True,True,Slightly Conforming,Strongly Disagree,Strongly Disagree
+Strongly Disagree,True,True,Slightly Conforming,Disagree,Strongly Disagree
+Strongly Disagree,True,True,Slightly Conforming,Neutral,Strongly Disagree
+Strongly Disagree,True,True,Slightly Conforming,Agree,Strongly Disagree
+Strongly Disagree,True,True,Slightly Conforming,Strongly Agree,Strongly Disagree
+Strongly Disagree,True,False,Slightly Conforming,Strongly Disagree,Strongly Disagree
+Strongly Disagree,True,False,Slightly Conforming,Disagree,Strongly Disagree
+Strongly Disagree,True,False,Slightly Conforming,Neutral,Strongly Disagree
+Strongly Disagree,True,False,Slightly Conforming,Agree,Strongly Disagree
+Strongly Disagree,True,False,Slightly Conforming,Strongly Agree,Strongly Disagree
+Strongly Disagree,True,False,Slightly Conforming,Strongly Disagree,Strongly Disagree
+Strongly Disagree,True,False,Slightly Conforming,Disagree,Strongly Disagree
+Strongly Disagree,True,False,Slightly Conforming,Neutral,Strongly Disagree
+Strongly Disagree,True,False,Slightly Conforming,Agree,Strongly Disagree
+Strongly Disagree,True,False,Slightly Conforming,Strongly Agree,Strongly Disagree
+Strongly Disagree,True,False,Slightly Conforming,Strongly Disagree,Strongly Disagree
+Strongly Disagree,True,False,Slightly Conforming,Disagree,Strongly Disagree
+Strongly Disagree,True,False,Slightly Conforming,Neutral,Strongly Disagree
+Strongly Disagree,True,False,Neutral,Agree,Strongly Disagree
+Strongly Disagree,True,False,Neutral,Strongly Agree,Strongly Disagree
+Strongly Disagree,True,False,Neutral,Strongly Disagree,Strongly Disagree
+Strongly Disagree,True,False,Neutral,Disagree,Strongly Disagree
+Strongly Disagree,True,False,Slightly Conforming,Neutral,Strongly Disagree
+Strongly Disagree,True,False,Slightly Conforming,Agree,Strongly Disagree
+Strongly Disagree,True,False,Slightly Conforming,Strongly Agree,Strongly Disagree
+Strongly Disagree,True,False,Conforming,Strongly Disagree,Strongly Disagree
+Strongly Disagree,True,False,Conforming,Disagree,Strongly Disagree
+Strongly Disagree,True,False,Conforming,Neutral,Strongly Disagree
+Strongly Disagree,True,False,Conforming,Agree,Strongly Disagree
+Strongly Disagree,True,False,Conforming,Strongly Agree,Strongly Disagree
+Strongly Disagree,False,True,Conforming,Strongly Disagree,Strongly Disagree
+Strongly Disagree,False,True,Conforming,Disagree,Strongly Disagree
+Strongly Disagree,False,True,Conforming,Neutral,Strongly Disagree
+Strongly Disagree,False,True,Conforming,Agree,Strongly Disagree
+Strongly Disagree,False,True,Conforming,Strongly Agree,Strongly Disagree
+Strongly Disagree,False,True,Conforming,Strongly Disagree,Strongly Disagree
+Strongly Disagree,False,True,Conforming,Disagree,Strongly Disagree
+Strongly Disagree,False,True,Conforming,Neutral,Strongly Disagree
+Strongly Disagree,False,True,Conforming,Agree,Strongly Disagree
+Strongly Disagree,False,True,Conforming,Strongly Agree,Strongly Disagree
+Strongly Disagree,False,True,Conforming,Strongly Disagree,Strongly Disagree
+Strongly Disagree,False,True,Conforming,Disagree,Strongly Disagree
+Strongly Disagree,False,True,Conforming,Neutral,Strongly Disagree
+Strongly Disagree,False,True,Conforming,Agree,Strongly Disagree
+Strongly Disagree,False,True,Neutral,Strongly Agree,Neutral
+Strongly Disagree,False,True,Neutral,Strongly Disagree,Strongly Disagree
+Strongly Disagree,False,True,Slightly Conforming,Disagree,Neutral
+Strongly Disagree,False,True,Slightly Conforming,Neutral,Strongly Disagree
+Strongly Disagree,False,True,Slightly Conforming,Agree,Neutral
+Strongly Disagree,False,True,Slightly Conforming,Strongly Agree,Strongly Disagree
+Strongly Disagree,False,True,Slightly Conforming,Strongly Disagree,Strongly Disagree
+Strongly Disagree,False,True,Slightly Conforming,Disagree,Strongly Disagree
+Strongly Disagree,False,True,Slightly Conforming,Neutral,Strongly Disagree
+Strongly Disagree,False,True,Slightly Conforming,Agree,Strongly Disagree
+Strongly Disagree,False,True,Slightly Conforming,Strongly Agree,Strongly Disagree
+Strongly Disagree,False,False,Slightly Conforming,Strongly Disagree,Strongly Disagree
+Strongly Disagree,False,False,Slightly Conforming,Disagree,Strongly Disagree
+Strongly Disagree,False,False,Slightly Conforming,Neutral,Strongly Disagree
+Strongly Disagree,False,False,Slightly Conforming,Agree,Strongly Disagree
+Strongly Disagree,False,False,Slightly Conforming,Strongly Agree,Strongly Disagree
+Strongly Disagree,False,False,Slightly Conforming,Strongly Disagree,Strongly Disagree
+Strongly Disagree,False,False,Slightly non-conforming,Disagree,Neutral
+Strongly Disagree,False,False,Slightly non-conforming,Neutral,Strongly Disagree
+Strongly Disagree,False,False,Slightly non-conforming,Agree,Strongly Disagree
+Strongly Disagree,False,False,Slightly non-conforming,Strongly Agree,Strongly Disagree
+Strongly Disagree,False,False,Slightly non-conforming,Strongly Disagree,Strongly Disagree
+Strongly Disagree,False,False,Slightly non-conforming,Disagree,Strongly Disagree
+Strongly Disagree,False,False,Slightly non-conforming,Neutral,Strongly Disagree
+Strongly Disagree,False,False,Slightly non-conforming,Agree,Strongly Disagree
+Strongly Disagree,False,False,Slightly non-conforming,Strongly Agree,Strongly Disagree
+Strongly Disagree,False,False,Slightly non-conforming,Strongly Disagree,Strongly Disagree
+Strongly Disagree,False,False,Slightly non-conforming,Disagree,Strongly Disagree
+Strongly Disagree,False,False,Slightly non-conforming,Neutral,Strongly Disagree
+Strongly Disagree,False,False,Slightly non-conforming,Agree,Strongly Disagree
+Strongly Disagree,False,False,Slightly non-conforming,Strongly Agree,Strongly Disagree
+Strongly Disagree,False,False,Slightly non-conforming,Strongly Disagree,Strongly Disagree
+Strongly Disagree,False,False,Slightly non-conforming,Disagree,Strongly Disagree
+Strongly Disagree,False,False,Slightly non-conforming,Neutral,Strongly Disagree
+Strongly Disagree,False,False,Slightly non-conforming,Agree,Strongly Disagree
+Strongly Disagree,False,False,Slightly non-conforming,Strongly Agree,Strongly Disagree
+Disagree,True,True,Slightly non-conforming,Strongly Disagree,Disagree
+Disagree,True,True,Slightly non-conforming,Disagree,Disagree
+Disagree,True,True,Slightly non-conforming,Neutral,Disagree
+Disagree,True,True,Slightly non-conforming,Agree,Disagree
+Disagree,True,True,Slightly non-conforming,Strongly Agree,Disagree
+Disagree,True,True,Slightly non-conforming,Strongly Disagree,Disagree
+Disagree,True,True,Slightly non-conforming,Disagree,Disagree
+Disagree,True,True,Slightly non-conforming,Neutral,Disagree
+Disagree,True,True,Slightly non-conforming,Agree,Disagree
+Disagree,True,True,Slightly non-conforming,Strongly Agree,Disagree
+Disagree,True,True,Slightly non-conforming,Strongly Disagree,Disagree
+Disagree,True,True,Slightly non-conforming,Disagree,Disagree
+Disagree,True,True,Slightly non-conforming,Neutral,Disagree
+Disagree,True,True,Slightly non-conforming,Agree,Disagree
+Disagree,True,True,Slightly non-conforming,Strongly Agree,Disagree
+Disagree,True,True,Slightly Conforming,Strongly Disagree,Disagree
+Disagree,True,True,Slightly Conforming,Disagree,Disagree
+Disagree,True,True,Slightly Conforming,Neutral,Disagree
+Disagree,True,True,Slightly Conforming,Agree,Disagree
+Disagree,True,True,Slightly Conforming,Strongly Agree,Disagree
+Disagree,True,True,Slightly Conforming,Strongly Disagree,Disagree
+Disagree,True,True,Slightly Conforming,Disagree,Disagree
+Disagree,True,True,Conforming,Neutral,Disagree
+Disagree,True,True,Conforming,Agree,Disagree
+Disagree,True,True,Conforming,Strongly Agree,Disagree
+Disagree,True,False,Conforming,Strongly Disagree,Disagree
+Disagree,True,False,Conforming,Disagree,Disagree
+Disagree,True,False,Non-conforming,Neutral,Disagree
+Disagree,True,False,Non-conforming,Agree,Disagree
+Disagree,True,False,Non-conforming,Strongly Agree,Disagree
+Disagree,True,False,Non-conforming,Strongly Disagree,Disagree
+Disagree,True,False,Non-conforming,Disagree,Disagree
+Disagree,True,False,Slightly non-conforming,Neutral,Disagree
+Disagree,True,False,Slightly non-conforming,Agree,Disagree
+Disagree,True,False,Slightly non-conforming,Strongly Agree,Disagree
+Disagree,True,False,Slightly non-conforming,Strongly Disagree,Disagree
+Disagree,True,False,Slightly non-conforming,Disagree,Disagree
+Disagree,True,False,Slightly non-conforming,Neutral,Disagree
+Disagree,True,False,Slightly non-conforming,Agree,Disagree
+Disagree,True,False,Slightly non-conforming,Strongly Agree,Disagree
+Disagree,True,False,Slightly non-conforming,Strongly Disagree,Disagree
+Disagree,True,False,Slightly non-conforming,Disagree,Disagree
+Disagree,True,False,Slightly Conforming,Neutral,Disagree
+Disagree,True,False,Slightly Conforming,Agree,Disagree
+Disagree,True,False,Slightly Conforming,Strongly Agree,Disagree
+Disagree,True,False,Slightly Conforming,Strongly Disagree,Disagree
+Disagree,True,False,Slightly Conforming,Disagree,Disagree
+Disagree,True,False,Slightly Conforming,Neutral,Disagree
+Disagree,True,False,Slightly Conforming,Agree,Disagree
+Disagree,True,False,Slightly Conforming,Strongly Agree,Disagree
+Disagree,False,True,Slightly Conforming,Strongly Disagree,Disagree
+Disagree,False,True,Slightly Conforming,Disagree,Disagree
+Disagree,False,True,Slightly Conforming,Neutral,Disagree
+Disagree,False,True,Non-conforming,Agree,Neutral
+Disagree,False,True,Non-conforming,Strongly Agree,Disagree
+Disagree,False,True,Non-conforming,Strongly Disagree,Disagree
+Disagree,False,True,Non-conforming,Disagree,Disagree
+Disagree,False,True,Non-conforming,Neutral,Disagree
+Disagree,False,True,Slightly non-conforming,Agree,Neutral
+Disagree,False,True,Slightly non-conforming,Strongly Agree,Disagree
+Disagree,False,True,Slightly non-conforming,Strongly Disagree,Disagree
+Disagree,False,True,Slightly non-conforming,Disagree,Disagree
+Disagree,False,True,Slightly non-conforming,Neutral,Disagree
+Disagree,False,True,Neutral,Agree,Neutral
+Disagree,False,True,Neutral,Strongly Agree,Disagree
+Disagree,False,True,Neutral,Strongly Disagree,Disagree
+Disagree,False,True,Neutral,Disagree,Disagree
+Disagree,False,True,Neutral,Neutral,Disagree
+Disagree,False,True,Neutral,Agree,Disagree
+Disagree,False,True,Neutral,Strongly Agree,Disagree
+Disagree,False,True,Neutral,Strongly Disagree,Disagree
+Disagree,False,True,Conforming,Disagree,Neutral
+Disagree,False,True,Conforming,Neutral,Disagree
+Disagree,False,True,Conforming,Agree,Disagree
+Disagree,False,True,Conforming,Strongly Agree,Disagree
+Disagree,False,False,Conforming,Strongly Disagree,Disagree
+Disagree,False,False,Conforming,Disagree,Disagree
+Disagree,False,False,Conforming,Neutral,Disagree
+Disagree,False,False,Conforming,Agree,Disagree
+Disagree,False,False,Conforming,Strongly Agree,Disagree
+Disagree,False,False,Conforming,Strongly Disagree,Disagree
+Disagree,False,False,Conforming,Disagree,Disagree
+Disagree,False,False,Conforming,Neutral,Disagree
+Disagree,False,False,Conforming,Agree,Disagree
+Disagree,False,False,Conforming,Strongly Agree,Disagree
+Disagree,False,False,Conforming,Strongly Disagree,Disagree
+Disagree,False,False,Conforming,Disagree,Disagree
+Disagree,False,False,Conforming,Neutral,Disagree
+Disagree,False,False,Conforming,Agree,Disagree
+Disagree,False,False,Conforming,Strongly Agree,Disagree
+Disagree,False,False,Conforming,Strongly Disagree,Disagree
+Disagree,False,False,Slightly Conforming,Disagree,Neutral
+Disagree,False,False,Slightly Conforming,Neutral,Disagree
+Disagree,False,False,Slightly Conforming,Agree,Disagree
+Disagree,False,False,Slightly Conforming,Strongly Agree,Disagree
+Disagree,False,False,Slightly Conforming,Strongly Disagree,Disagree
+Disagree,False,False,Slightly Conforming,Disagree,Disagree
+Disagree,False,False,Slightly Conforming,Neutral,Disagree
+Disagree,False,False,Slightly Conforming,Agree,Disagree
+Disagree,False,False,Conforming,Strongly Agree,Neutral
+Neutral,True,True,Conforming,Strongly Disagree,Neutral
+Neutral,True,True,Conforming,Disagree,Neutral
+Neutral,True,True,Conforming,Neutral,Neutral
+Neutral,True,True,Conforming,Agree,Neutral
+Neutral,True,True,Conforming,Strongly Agree,Neutral
+Neutral,True,True,Conforming,Strongly Disagree,Neutral
+Neutral,True,True,Conforming,Disagree,Neutral
+Neutral,True,True,Conforming,Neutral,Neutral
+Neutral,True,True,Conforming,Agree,Neutral
+Neutral,True,True,Conforming,Strongly Agree,Neutral
+Neutral,True,True,Conforming,Strongly Disagree,Neutral
+Neutral,True,True,Conforming,Disagree,Neutral
+Neutral,True,True,Conforming,Neutral,Neutral
+Neutral,True,True,Conforming,Agree,Neutral
+Neutral,True,True,Conforming,Strongly Agree,Neutral
+Neutral,True,True,Conforming,Strongly Disagree,Neutral
+Neutral,True,True,Conforming,Disagree,Neutral
+Neutral,True,True,Conforming,Neutral,Neutral
+Neutral,True,True,Conforming,Agree,Neutral
+Neutral,True,True,Conforming,Strongly Agree,Neutral
+Neutral,True,True,Conforming,Strongly Disagree,Neutral
+Neutral,True,True,Conforming,Disagree,Neutral
+Neutral,True,True,Conforming,Neutral,Neutral
+Neutral,True,True,Conforming,Agree,Neutral
+Neutral,True,True,Conforming,Strongly Agree,Neutral
+Neutral,True,False,Conforming,Strongly Disagree,Neutral
+Neutral,True,False,Conforming,Disagree,Neutral
+Neutral,True,False,Conforming,Neutral,Neutral
+Neutral,True,False,Conforming,Agree,Neutral
+Neutral,True,False,Non-conforming,Strongly Agree,Neutral
+Neutral,True,False,Non-conforming,Strongly Disagree,Neutral
+Neutral,True,False,Non-conforming,Disagree,Neutral
+Neutral,True,False,Non-conforming,Neutral,Neutral
+Neutral,True,False,Slightly non-conforming,Agree,Neutral
+Neutral,True,False,Slightly non-conforming,Strongly Agree,Neutral
+Neutral,True,False,Slightly non-conforming,Strongly Disagree,Neutral
+Neutral,True,False,Neutral,Disagree,Neutral
+Neutral,True,False,Neutral,Neutral,Neutral
+Neutral,True,False,Neutral,Agree,Neutral
+Neutral,True,False,Neutral,Strongly Agree,Neutral
+Neutral,True,False,Neutral,Strongly Disagree,Neutral
+Neutral,True,False,Neutral,Disagree,Neutral
+Neutral,True,False,Neutral,Neutral,Neutral
+Neutral,True,False,Neutral,Agree,Neutral
+Neutral,True,False,Neutral,Strongly Agree,Neutral
+Neutral,True,False,Neutral,Strongly Disagree,Neutral
+Neutral,True,False,Neutral,Disagree,Neutral
+Neutral,True,False,Neutral,Neutral,Neutral
+Neutral,True,False,Neutral,Agree,Neutral
+Neutral,True,False,Neutral,Strongly Agree,Neutral
+Neutral,False,True,Neutral,Strongly Disagree,Neutral
+Neutral,False,True,Neutral,Disagree,Neutral
+Neutral,False,True,Neutral,Neutral,Neutral
+Neutral,False,True,Neutral,Agree,Neutral
+Neutral,False,True,Neutral,Strongly Agree,Neutral
+Neutral,False,True,Neutral,Strongly Disagree,Neutral
+Neutral,False,True,Neutral,Disagree,Neutral
+Neutral,False,True,Neutral,Neutral,Neutral
+Neutral,False,True,Neutral,Agree,Neutral
+Neutral,False,True,Neutral,Strongly Agree,Neutral
+Neutral,False,True,Neutral,Strongly Disagree,Neutral
+Neutral,False,True,Neutral,Disagree,Neutral
+Neutral,False,True,Neutral,Neutral,Neutral
+Neutral,False,True,Neutral,Agree,Neutral
+Neutral,False,True,Neutral,Strongly Agree,Neutral
+Neutral,False,True,Neutral,Strongly Disagree,Neutral
+Neutral,False,True,Neutral,Disagree,Neutral
+Neutral,False,True,Neutral,Neutral,Neutral
+Neutral,False,True,Neutral,Agree,Neutral
+Neutral,False,True,Neutral,Strongly Agree,Neutral
+Neutral,False,True,Neutral,Strongly Disagree,Neutral
+Neutral,False,True,Neutral,Disagree,Neutral
+Neutral,False,True,Neutral,Neutral,Neutral
+Neutral,False,True,Neutral,Agree,Neutral
+Neutral,False,True,Neutral,Strongly Agree,Neutral
+Neutral,False,False,Neutral,Strongly Disagree,Neutral
+Neutral,False,False,Neutral,Disagree,Neutral
+Neutral,False,False,Non-conforming,Neutral,Neutral
+Neutral,False,False,Non-conforming,Agree,Neutral
+Neutral,False,False,Non-conforming,Strongly Agree,Neutral
+Neutral,False,False,Non-conforming,Strongly Disagree,Neutral
+Neutral,False,False,Non-conforming,Disagree,Neutral
+Neutral,False,False,Non-conforming,Neutral,Neutral
+Neutral,False,False,Non-conforming,Agree,Neutral
+Neutral,False,False,Non-conforming,Strongly Agree,Neutral
+Neutral,False,False,Non-conforming,Strongly Disagree,Neutral
+Neutral,False,False,Non-conforming,Disagree,Neutral
+Neutral,False,False,Non-conforming,Neutral,Neutral
+Neutral,False,False,Non-conforming,Agree,Neutral
+Neutral,False,False,Neutral,Strongly Agree,Neutral
+Neutral,False,False,Neutral,Strongly Disagree,Neutral
+Neutral,False,False,Neutral,Disagree,Neutral
+Neutral,False,False,Neutral,Neutral,Neutral
+Neutral,False,False,Neutral,Agree,Neutral
+Neutral,False,False,Neutral,Strongly Agree,Neutral
+Neutral,False,False,Neutral,Strongly Disagree,Neutral
+Neutral,False,False,Neutral,Disagree,Neutral
+Neutral,False,False,Neutral,Neutral,Neutral
+Neutral,False,False,Neutral,Agree,Neutral
+Neutral,False,False,Neutral,Strongly Agree,Neutral
+Agree,True,True,Neutral,Strongly Disagree,Agree
+Agree,True,True,Neutral,Disagree,Agree
+Agree,True,True,Neutral,Neutral,Agree
+Agree,True,True,Non-conforming,Agree,Agree
+Agree,True,True,Non-conforming,Strongly Agree,Agree
+Agree,True,True,Slightly non-conforming,Strongly Disagree,Agree
+Agree,True,True,Slightly non-conforming,Disagree,Agree
+Agree,True,True,Slightly non-conforming,Neutral,Agree
+Agree,True,True,Slightly non-conforming,Agree,Agree
+Agree,True,True,Slightly non-conforming,Strongly Agree,Agree
+Agree,True,True,Slightly non-conforming,Strongly Disagree,Agree
+Agree,True,True,Slightly non-conforming,Disagree,Agree
+Agree,True,True,Slightly non-conforming,Neutral,Agree
+Agree,True,True,Slightly non-conforming,Agree,Agree
+Agree,True,True,Slightly non-conforming,Strongly Agree,Agree
+Agree,True,True,Slightly Conforming,Strongly Disagree,Agree
+Agree,True,True,Slightly Conforming,Disagree,Agree
+Agree,True,True,Slightly Conforming,Neutral,Agree
+Agree,True,True,Slightly Conforming,Agree,Agree
+Agree,True,True,Slightly Conforming,Strongly Agree,Agree
+Agree,True,True,Slightly Conforming,Strongly Disagree,Agree
+Agree,True,True,Slightly Conforming,Disagree,Agree
+Agree,True,True,Slightly Conforming,Neutral,Agree
+Agree,True,True,Conforming,Agree,Agree
+Agree,True,True,Conforming,Strongly Agree,Agree
+Agree,True,False,Non-conforming,Strongly Disagree,Agree
+Agree,True,False,Non-conforming,Disagree,Agree
+Agree,True,False,Non-conforming,Neutral,Agree
+Agree,True,False,Non-conforming,Agree,Agree
+Agree,True,False,Non-conforming,Strongly Agree,Agree
+Agree,True,False,Non-conforming,Strongly Disagree,Agree
+Agree,True,False,Slightly non-conforming,Disagree,Agree
+Agree,True,False,Slightly non-conforming,Neutral,Agree
+Agree,True,False,Slightly non-conforming,Agree,Agree
+Agree,True,False,Slightly non-conforming,Strongly Agree,Agree
+Agree,True,False,Slightly non-conforming,Strongly Disagree,Agree
+Agree,True,False,Slightly non-conforming,Disagree,Agree
+Agree,True,False,Slightly non-conforming,Neutral,Agree
+Agree,True,False,Slightly non-conforming,Agree,Agree
+Agree,True,False,Slightly non-conforming,Strongly Agree,Agree
+Agree,True,False,Slightly Conforming,Strongly Disagree,Agree
+Agree,True,False,Slightly Conforming,Disagree,Agree
+Agree,True,False,Slightly Conforming,Neutral,Agree
+Agree,True,False,Slightly Conforming,Agree,Agree
+Agree,True,False,Slightly Conforming,Strongly Agree,Agree
+Agree,True,False,Slightly Conforming,Strongly Disagree,Agree
+Agree,True,False,Slightly Conforming,Disagree,Agree
+Agree,True,False,Conforming,Neutral,Agree
+Agree,True,False,Conforming,Agree,Agree
+Agree,True,False,Conforming,Strongly Agree,Agree
+Agree,False,True,Conforming,Strongly Disagree,Agree
+Agree,False,True,Conforming,Disagree,Agree
+Agree,False,True,Conforming,Neutral,Agree
+Agree,False,True,Conforming,Agree,Agree
+Agree,False,True,Conforming,Strongly Agree,Agree
+Agree,False,True,Conforming,Strongly Disagree,Agree
+Agree,False,True,Conforming,Disagree,Agree
+Agree,False,True,Conforming,Neutral,Agree
+Agree,False,True,Conforming,Agree,Agree
+Agree,False,True,Conforming,Strongly Agree,Agree
+Agree,False,True,Conforming,Strongly Disagree,Agree
+Agree,False,True,Conforming,Disagree,Agree
+Agree,False,True,Conforming,Neutral,Agree
+Agree,False,True,Neutral,Agree,Neutral
+Agree,False,True,Neutral,Strongly Agree,Agree
+Agree,False,True,Neutral,Strongly Disagree,Agree
+Agree,False,True,Slightly Conforming,Disagree,Neutral
+Agree,False,True,Slightly Conforming,Neutral,Agree
+Agree,False,True,Slightly Conforming,Agree,Agree
+Agree,False,True,Slightly Conforming,Strongly Agree,Neutral
+Agree,False,True,Slightly Conforming,Strongly Disagree,Agree
+Agree,False,True,Slightly Conforming,Disagree,Agree
+Agree,False,True,Slightly Conforming,Neutral,Agree
+Agree,False,True,Slightly Conforming,Agree,Agree
+Agree,False,True,Slightly Conforming,Strongly Agree,Agree
+Agree,False,False,Slightly Conforming,Strongly Disagree,Agree
+Agree,False,False,Non-conforming,Disagree,Neutral
+Agree,False,False,Non-conforming,Neutral,Agree
+Agree,False,False,Non-conforming,Agree,Agree
+Agree,False,False,Non-conforming,Strongly Agree,Agree
+Agree,False,False,Non-conforming,Strongly Disagree,Agree
+Agree,False,False,Non-conforming,Disagree,Agree
+Agree,False,False,Non-conforming,Neutral,Agree
+Agree,False,False,Non-conforming,Agree,Agree
+Agree,False,False,Non-conforming,Strongly Agree,Agree
+Agree,False,False,Non-conforming,Strongly Disagree,Agree
+Agree,False,False,Non-conforming,Disagree,Agree
+Agree,False,False,Non-conforming,Neutral,Agree
+Agree,False,False,Non-conforming,Agree,Agree
+Agree,False,False,Non-conforming,Strongly Agree,Agree
+Agree,False,False,Non-conforming,Strongly Disagree,Agree
+Agree,False,False,Non-conforming,Disagree,Agree
+Agree,False,False,Non-conforming,Neutral,Agree
+Agree,False,False,Slightly Conforming,Agree,Neutral
+Agree,False,False,Slightly Conforming,Strongly Agree,Agree
+Agree,False,False,Conforming,Strongly Disagree,Neutral
+Agree,False,False,Conforming,Disagree,Agree
+Agree,False,False,Conforming,Neutral,Agree
+Agree,False,False,Conforming,Agree,Agree
+Agree,False,False,Conforming,Strongly Agree,Agree
+Strongly Agree,True,True,Conforming,Strongly Disagree,Strongly Agree
+Strongly Agree,True,True,Conforming,Disagree,Strongly Agree
+Strongly Agree,True,True,Conforming,Neutral,Strongly Agree
+Strongly Agree,True,True,Conforming,Agree,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Strongly Agree,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Strongly Disagree,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Disagree,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Neutral,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Agree,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Strongly Agree,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Strongly Disagree,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Disagree,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Neutral,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Agree,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Strongly Agree,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Strongly Disagree,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Disagree,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Neutral,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Agree,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Strongly Agree,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Strongly Disagree,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Disagree,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Neutral,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Agree,Strongly Agree
+Strongly Agree,True,True,Non-conforming,Strongly Agree,Strongly Agree
+Strongly Agree,True,False,Non-conforming,Strongly Disagree,Strongly Agree
+Strongly Agree,True,False,Non-conforming,Disagree,Strongly Agree
+Strongly Agree,True,False,Non-conforming,Neutral,Strongly Agree
+Strongly Agree,True,False,Non-conforming,Agree,Strongly Agree
+Strongly Agree,True,False,Non-conforming,Strongly Agree,Strongly Agree
+Strongly Agree,True,False,Slightly non-conforming,Strongly Disagree,Strongly Agree
+Strongly Agree,True,False,Slightly non-conforming,Disagree,Strongly Agree
+Strongly Agree,True,False,Slightly non-conforming,Neutral,Strongly Agree
+Strongly Agree,True,False,Slightly non-conforming,Agree,Strongly Agree
+Strongly Agree,True,False,Slightly non-conforming,Strongly Agree,Strongly Agree
+Strongly Agree,True,False,Slightly non-conforming,Strongly Disagree,Strongly Agree
+Strongly Agree,True,False,Neutral,Disagree,Strongly Agree
+Strongly Agree,True,False,Neutral,Neutral,Strongly Agree
+Strongly Agree,True,False,Neutral,Agree,Strongly Agree
+Strongly Agree,True,False,Neutral,Strongly Agree,Strongly Agree
+Strongly Agree,True,False,Neutral,Strongly Disagree,Strongly Agree
+Strongly Agree,True,False,Neutral,Disagree,Strongly Agree
+Strongly Agree,True,False,Neutral,Neutral,Strongly Agree
+Strongly Agree,True,False,Neutral,Agree,Strongly Agree
+Strongly Agree,True,False,Neutral,Strongly Agree,Strongly Agree
+Strongly Agree,True,False,Neutral,Strongly Disagree,Strongly Agree
+Strongly Agree,True,False,Neutral,Disagree,Strongly Agree
+Strongly Agree,True,False,Neutral,Neutral,Strongly Agree
+Strongly Agree,True,False,Neutral,Agree,Strongly Agree
+Strongly Agree,True,False,Neutral,Strongly Agree,Strongly Agree
+Strongly Agree,False,True,Neutral,Strongly Disagree,Strongly Agree
+Strongly Agree,False,True,Neutral,Disagree,Strongly Agree
+Strongly Agree,False,True,Neutral,Neutral,Strongly Agree
+Strongly Agree,False,True,Neutral,Agree,Strongly Agree
+Strongly Agree,False,True,Neutral,Strongly Agree,Strongly Agree
+Strongly Agree,False,True,Neutral,Strongly Disagree,Strongly Agree
+Strongly Agree,False,True,Slightly non-conforming,Disagree,Neutral
+Strongly Agree,False,True,Slightly non-conforming,Neutral,Strongly Agree
+Strongly Agree,False,True,Slightly non-conforming,Agree,Strongly Agree
+Strongly Agree,False,True,Slightly non-conforming,Strongly Agree,Strongly Agree
+Strongly Agree,False,True,Slightly non-conforming,Strongly Disagree,Strongly Agree
+Strongly Agree,False,True,Slightly non-conforming,Disagree,Strongly Agree
+Strongly Agree,False,True,Slightly non-conforming,Neutral,Strongly Agree
+Strongly Agree,False,True,Slightly non-conforming,Agree,Strongly Agree
+Strongly Agree,False,True,Slightly non-conforming,Strongly Agree,Strongly Agree
+Strongly Agree,False,True,Slightly Conforming,Strongly Disagree,Neutral
+Strongly Agree,False,True,Slightly Conforming,Disagree,Strongly Agree
+Strongly Agree,False,True,Slightly Conforming,Neutral,Strongly Agree
+Strongly Agree,False,True,Slightly Conforming,Agree,Strongly Agree
+Strongly Agree,False,True,Slightly Conforming,Strongly Agree,Strongly Agree
+Strongly Agree,False,True,Slightly Conforming,Strongly Disagree,Strongly Agree
+Strongly Agree,False,True,Slightly Conforming,Disagree,Strongly Agree
+Strongly Agree,False,True,Slightly Conforming,Neutral,Strongly Agree
+Strongly Agree,False,True,Slightly Conforming,Agree,Strongly Agree
+Strongly Agree,False,True,Slightly Conforming,Strongly Agree,Strongly Agree
+Strongly Agree,False,False,Slightly Conforming,Strongly Disagree,Strongly Agree
+Strongly Agree,False,False,Slightly Conforming,Disagree,Strongly Agree
+Strongly Agree,False,False,Slightly Conforming,Neutral,Strongly Agree
+Strongly Agree,False,False,Slightly Conforming,Agree,Strongly Agree
+Strongly Agree,False,False,Slightly Conforming,Strongly Agree,Strongly Agree
+Strongly Agree,False,False,Slightly Conforming,Strongly Disagree,Strongly Agree
+Strongly Agree,False,False,Slightly Conforming,Disagree,Strongly Agree
+Strongly Agree,False,False,Slightly Conforming,Neutral,Strongly Agree
+Strongly Agree,False,False,Slightly non-conforming,Agree,Neutral
+Strongly Agree,False,False,Slightly non-conforming,Strongly Agree,Strongly Agree
+Strongly Agree,False,False,Neutral,Strongly Disagree,Neutral
+Strongly Agree,False,False,Neutral,Disagree,Strongly Agree
+Strongly Agree,False,False,Neutral,Neutral,Strongly Agree
+Strongly Agree,False,False,Neutral,Agree,Strongly Agree
+Strongly Agree,False,False,Neutral,Strongly Agree,Strongly Agree
+Strongly Agree,False,False,Neutral,Strongly Disagree,Strongly Agree
+Strongly Agree,False,False,Neutral,Disagree,Strongly Agree
+Strongly Agree,False,False,Neutral,Neutral,Strongly Agree
+Strongly Agree,False,False,Neutral,Agree,Strongly Agree
+Strongly Agree,False,False,Slightly Conforming,Strongly Agree,Neutral
+Strongly Agree,False,False,Slightly Conforming,Strongly Disagree,Strongly Agree
+Strongly Agree,False,False,Conforming,Disagree,Neutral
+Strongly Agree,False,False,Conforming,Neutral,Strongly Agree
+Strongly Agree,False,False,Conforming,Agree,Strongly Agree
+Strongly Agree,False,False,Conforming,Strongly Agree,Strongly Agree
