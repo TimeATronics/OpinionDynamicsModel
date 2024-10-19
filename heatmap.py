@@ -30,6 +30,12 @@ def main() -> None:
             vis[row][col] = round(n.popl.grid.get((row, col)).getOpinion(), 2)
     print(np.matrix(vis1))
     Helpers.plotHeatMap(vis1, "Initial Configuration")
+
+    initial_op_ls = []
+    for i in vis1:
+        initial_op_ls.extend(i)
+    Helpers.plot_finalOpinions_dist(initial_op_ls)
+
     n.simulate()
     print("\n\n")
     for row in range(len(vis)):
@@ -52,6 +58,9 @@ def main() -> None:
     print(np.matrix(vis1))
     Helpers.plotHeatMap(vis1, "Final Configuration")
     flattened_matrix = np.matrix(vis).flatten()
+
+    Helpers.plot_finalOpinions_dist(final_opinions_ls)
+
     hhi = Helpers.metrics(final_opinions_ls, size_population)
     print("#####")
     print("HHI: ", hhi)
